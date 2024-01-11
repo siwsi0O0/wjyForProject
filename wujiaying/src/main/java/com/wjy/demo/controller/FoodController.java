@@ -1,6 +1,6 @@
 package com.wjy.demo.controller;
 
-import com.wjy.demo.Services.FoodService;
+import com.wjy.demo.service.FoodService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.ResourceUtils;
 import org.springframework.web.bind.annotation.*;
