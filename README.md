@@ -12,3 +12,9 @@
 
 ### resource file
 * src\main\resources\static\Mobile_Food_Facility_Permit.cvs
+
+### Involving technical points
+* springboot
+* maven pom
+* web api
+* commons-csv
